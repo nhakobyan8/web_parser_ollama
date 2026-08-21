@@ -1,4 +1,4 @@
-# Ollama News Monitor Bot
+# Ollama Web Posts Monitor Bot
 
 A fully local, multi-user publication monitoring system. The Telegram bot manages users, sources, polling intervals, three AI prompts, and output methods. All AI analysis runs locally through Ollama.
 
